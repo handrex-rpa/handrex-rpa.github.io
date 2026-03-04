@@ -35,20 +35,16 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Acerca de',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Terminos',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
@@ -67,7 +63,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Ponte en contacto con nosotros',
                 href: '/contact'
             }
         ]
