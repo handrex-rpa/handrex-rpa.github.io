@@ -29,8 +29,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Linkedin',
+            href: 'https://www.linkedin.com/in/andrescobando'
         }
     ],
     footerNavLinks: [
