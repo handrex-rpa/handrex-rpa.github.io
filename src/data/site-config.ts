@@ -54,7 +54,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'Linkedin',
-            href: 'www.linkedin.com/in/andrescobando'
+            href: 'https://www.linkedin.com/in/andrescobando'
         },
 
     ],
