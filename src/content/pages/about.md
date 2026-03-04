@@ -36,8 +36,9 @@ The dynamic nature of the tech industry inspires me to stay up-to-date with the 
 
 I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
 
-## Get in Touch
+## Ponte en contacto con nosotros
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+¿Buscas automatizar, hiperautomatizar, analizar datos o impulsar un futuro más práctico y eficiente?
+¡Me encantará saber de ti! No dudes en contactarme si deseas colaborar, recibir asesoría, o simplemente conversar sobre analítica, automatización o nuevas oportunidades para transformar procesos.
 
 _Let's build something amazing together!_

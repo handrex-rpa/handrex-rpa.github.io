@@ -8,7 +8,7 @@ seo:
 ¡Gracias por contactarnos! Si tienes alguna pregunta, sugerencia o simplemente quieres compartir tu opinión, estoy a tu disposición. No dudes en contactarnos a través de cualquiera de los siguientes métodos:
 
 _Email:_
-No dude en enviarme un correo electrónico a [andrescobando@gmail.com.com](mailto:andrescobando@gmail.com), y haré todo lo posible para responder lo antes posible.
+No dude en enviarme un correo electrónico a [andrescobando@gmail.com](mailto:andrescobando@gmail.com), y haré todo lo posible para responder lo antes posible.
 
 _Social Media:_
 Sígueme también en redes sociales. Encuéntrame en [LinkedIn](https://www.linkedin.com/in/andrescobando/).
